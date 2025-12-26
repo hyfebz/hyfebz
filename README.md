@@ -16,7 +16,6 @@
 
 I am a passionate Full Stack Developer focused on building scalable, performant, and beautiful web applications. I specialize in the **React/Next.js** ecosystem for frontend and **Node.js** for backend services. Currently, I am deepening my expertise in secure authentication flows and complex UI/UX implementations.
 
-- 🔭 I’m currently working on a **Ticketing Helpdesk System** & **WhatsApp Automation Bot**.
 - 🌱 I’m currently learning advanced **TypeScript** patterns and **System Design**.
 - 💬 Ask me about **Next.js, Tailwind CSS, and Backend Architecture**.
 - ⚡ Fun fact: I love automating repetitive tasks to save time!
