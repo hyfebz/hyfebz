@@ -38,9 +38,11 @@ I am a passionate Full Stack Developer focused on building scalable, performant,
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyfebz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Febri's GitHub Stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyfebz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyfebz&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyfebz&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 <br/>
+
+> **Note**: These widgets are generated dynamically. If they load slowly or fail, it depends on the external service status.
