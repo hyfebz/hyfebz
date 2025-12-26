@@ -39,10 +39,7 @@ I am a passionate Full Stack Developer focused on building scalable, performant,
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyfebz&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyfebz&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 <br/>
-
-> **Note**: These widgets are generated dynamically. If they load slowly or fail, it depends on the external service status.
